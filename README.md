@@ -20,5 +20,4 @@ This project is an automation framework built using:
 
 ---
 
-## Project Structure
 
