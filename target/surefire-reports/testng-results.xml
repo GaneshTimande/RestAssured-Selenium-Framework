@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-16T14:24:18 IST" name="Suite" finished-at="2025-08-16T14:24:38 IST" duration-ms="19606">
+    <groups>
+    </groups>
+    <test started-at="2025-08-16T14:24:18 IST" name="Test" finished-at="2025-08-16T14:24:38 IST" duration-ms="19606">
+      <class name="SeleniumPractice.FlipkartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumPractice.FlipkartTest@623a8092]" started-at="2025-08-16T14:24:18 IST" name="setup" finished-at="2025-08-16T14:24:22 IST" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="flipkartE2EFlow()[pri:0, instance:SeleniumPractice.FlipkartTest@623a8092]" started-at="2025-08-16T14:24:22 IST" name="flipkartE2EFlow" finished-at="2025-08-16T14:24:37 IST" duration-ms="15216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartE2EFlow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SeleniumPractice.FlipkartTest@623a8092]" started-at="2025-08-16T14:24:37 IST" name="teardown" finished-at="2025-08-16T14:24:38 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SeleniumPractice.FlipkartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
